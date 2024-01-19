@@ -1,0 +1,4 @@
+{
+  "name": "grype",
+  "sdk": "go"
+}
