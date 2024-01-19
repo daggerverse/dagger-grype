@@ -19,4 +19,6 @@ dagger call -m github.com/lukemarsden/dagger-grype test-container --image "alpin
 Call the `TestContainer` method on this module with your container object (e.g. `*Container` in golang) as the only argument.
 This allows you to test a container without first pushing it to a container registry.
 
+## How it works
+
 Internally, this module exports the container image as a tarball and passes that tarball to grype.
