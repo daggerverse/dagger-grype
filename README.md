@@ -2,7 +2,7 @@
 
 Known to work with Dagger v0.9.5.
 
-Check containers for vulnerabilities using Grype from your Dagger pipelines.
+Check containers for vulnerabilities using [Grype](https://github.com/anchore/grype) from your Dagger pipelines.
 
 ## Containers
 
