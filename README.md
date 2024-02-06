@@ -1,6 +1,6 @@
 # Dagger Grype module
 
-Known to work with Dagger v0.9.5.
+Known to work with Dagger v0.9.5 and v0.9.8.
 
 Check containers for vulnerabilities using [Grype](https://github.com/anchore/grype) from your Dagger pipelines.
 
