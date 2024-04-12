@@ -1,3 +1,9 @@
+// Security scan a container image with Grype
+//
+// This module lets you security scan a container image using Grype.
+//
+// For more info and sample usage, check the readme: https://github.com/lukemarsden/dagger-grype
+
 package main
 
 import (
