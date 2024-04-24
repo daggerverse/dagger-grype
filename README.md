@@ -11,7 +11,7 @@ Check the given container image for vulnerabilities:
 ### From Dagger CLI
 
 ```
-dagger call -m github.com/lukemarsden/dagger-grype test-container-image --image "alpine:latest"
+dagger call -m github.com/daggerverse/dagger-grype test-container-image --image "alpine:latest"
 ```
 
 ### From Dagger Code
